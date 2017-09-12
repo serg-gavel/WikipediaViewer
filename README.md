@@ -14,4 +14,4 @@ __Used technologies :__
 **CSS 3**  
 **Bootstrap 4**  
 **JavaScript(jQuery)**  
-**Wikimedia API**  
+**MediaWiki API**  
